@@ -23,5 +23,7 @@ package part_1;
  * @author systemzero
  */
 public class main {
-
+	public static void main (String [] args ){
+			
+	}
 }
