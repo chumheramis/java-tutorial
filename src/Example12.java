@@ -3,12 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package part_2;
 
 /**
  *
  * @author systemzero
  */
-public class main {
+public class Example12 {
     
 }
